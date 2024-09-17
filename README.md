@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AlyZ</h1>
-<h3 align="center">A young-dumb 🤓 Nothing special</h3>
+<h3 align="center">A human  who real noob</h3>
 
-- 🌱 I’m currently learning at **Yogyakarta State University**
+- 🌱 I’m a grown learning
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZLemo0n](https://github.com/ZLemo0n)
 
